@@ -16,7 +16,7 @@ body {
 
     header {
         box-sizing: border-box;
-        background-image: linear-gradient(90deg, #9b0d0d 1%, rgb(219, 118, 36) 50%, #e99904);
+        background-image: linear-gradient(90deg, #e99904 1%, rgb(219, 118, 36) 50%, #e99904);
     }
 
     .menuBar {
